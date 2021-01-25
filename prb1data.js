@@ -30,6 +30,4 @@ let daysSelected = {
   sunday: false,
 };
 
-let hoursToAdd = { begin: "19:00", end: "23:30" };
-
-module.exports = { openingHours, daysSelected, hoursToAdd };
+module.exports = { openingHours, daysSelected };
